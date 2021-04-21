@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <omp.h>
 #include <string.h>
-#include <math.h>
 #include "RNGen.h"
 
 int NUM_THREADS= 8;
